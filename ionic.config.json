@@ -1,5 +1,7 @@
 {
   "name": "proximoMobileLocal",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "ionic-angular"
 }
